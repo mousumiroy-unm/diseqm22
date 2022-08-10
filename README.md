@@ -5,3 +5,4 @@ Roy, M., Assessing the role of thermal disequilibrium in the evolution of the li
 channelized melt-transport, Solid Earth, se-2022-13, 2022
 
 These are for the sinusoidal perturbation, but may be easily modified to make a step-function or a tanh-pulse with a specified width
+[![DOI](https://zenodo.org/badge/523503267.svg)](https://zenodo.org/badge/latestdoi/523503267)
